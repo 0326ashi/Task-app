@@ -1,1 +1,1 @@
-A task app using Android Studio and Kotlin
+--Task management app using Android Studio and Kotlin--
