@@ -1,2 +1,2 @@
 # Task-app
-A mobile application using Android Studio and Kotlin
+A Task App using Android Studio and Kotlin
